@@ -1,6 +1,7 @@
 export const businessConfig = {
   // Identity
   name: "Barber Style",
+  category: "barbershop",
   tagline: "Dove la barba incontra l'arte, dal 2021.",
   city: "Pasta",
 
@@ -8,6 +9,7 @@ export const businessConfig = {
   address: "Via Giacomo Leopardi, 10/2, 10040 Pasta TO",
   phone: "+39 338 963 0031",
   email: "",
+  bookingUrl: "",
 
   // Online presence
   googleMapsUrl: "https://maps.google.com/?q=Via%20Giacomo%20Leopardi%2C%2010%2F2%2C%2010040%20Pasta%20TO",
